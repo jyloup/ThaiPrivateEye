@@ -1,2 +1,2 @@
 # ThaiPrivateEye
-french translation of ThaiPrivateEye
+french ThaiPrivateEye
